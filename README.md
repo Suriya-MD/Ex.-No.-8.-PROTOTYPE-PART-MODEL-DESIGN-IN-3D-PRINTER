@@ -1,4 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.3   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 
 ## AIM: 
@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot (28)](https://github.com/Suriya-MD/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147120571/298ee5b1-493c-4608-a87e-489ca9fa7dc1)
+
+### Name: SURIYA M
+### Register Number: 212223110055
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
